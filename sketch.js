@@ -112,5 +112,4 @@ function draw() {
 //fade block
 	fill(0, 0, 0, B);
 	rect(0, 0, 2*xc, 2*yc);
-	
 }
