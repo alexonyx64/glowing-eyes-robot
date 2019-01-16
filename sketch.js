@@ -1,14 +1,14 @@
 var xc, yc, F, A, B, b, G, g;
 
 function setup() {
-	createCanvas(windowWidth, windowHeight);
+	createCanvas(800, 700);
 	
 	background(0);
 	
 	noStroke();
 	
-	xc = windowWidth/2;
-	yc = windowHeight/2;
+	xc = width/2;
+	yc = height/2;
 	
 	ellipseMode(RADIUS);
 	
